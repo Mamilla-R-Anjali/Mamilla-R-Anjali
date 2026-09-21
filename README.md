@@ -42,11 +42,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/anjalimamilla">
+<a href="mailto:mamillaanjali8@gmail.com" target="_blank">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    alt="Email"
     height="38"
     width="48"
   />
@@ -57,16 +57,6 @@
     align="center"
     src="https://cdn.simpleicons.org/github/181717"
     alt="GitHub"
-    height="38"
-    width="48"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/anjalimamilla/" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
     height="38"
     width="48"
   />
