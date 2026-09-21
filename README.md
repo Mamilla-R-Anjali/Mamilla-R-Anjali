@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mamilla R Anjali
 
-### Early-Career Software Engineer from India
+### Backend & Full-Stack Developer
 
 <p align="center">
   <img
